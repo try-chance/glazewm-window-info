@@ -1,7 +1,7 @@
 ﻿#Requires -Version 5.1
 
 # GlazeWM Window Info
-# Query GlazeWM's focused window and show the result in a copyable dialog.
+# Query GlazeWM's focused window and show the result in a window with selectable text.
 
 $ErrorActionPreference = 'Stop'
 
